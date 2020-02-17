@@ -1,6 +1,6 @@
 ## Google sign
 
-# Video tutorial linl
+# Video tutorial link
 link: https://youtu.be/sAmgyUwvcqI
 # Official website
 https://github.com/react-native-community/google-signin
