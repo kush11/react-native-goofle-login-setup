@@ -5,10 +5,10 @@ link: https://youtu.be/sAmgyUwvcqI
 # Official website
 https://github.com/react-native-community/google-signin
 
-# Create a project in firebase 
+# Create a project in Firebase 
 link: https://console.firebase.google.com/u/0/
 
-# Create android project
+# Create android project in Firebase
 `` package name find at android/app/src/main/AndroidManifest.xml ``
 example :
 `` package="com.rngooglelogindemo ``
